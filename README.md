@@ -1,24 +1,6 @@
-# web
+# My_Page
 
-## Project setup
+## 介紹
 ```
-npm install
+運用Vue.js、Scss實作的RWD單頁式網站，在開發過程中了解許多Vue的基本概念，像是Component、Template、Props、Data Binding、Life Cycle等概念
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
